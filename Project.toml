@@ -1,0 +1,4 @@
+name = "openqed"
+uuid = "5cb78c11-19aa-4665-a176-dd284f05a99b"
+authors = ["Francesco Troisi <francesco.troisi98@gmail.com>"]
+version = "0.1.0"
