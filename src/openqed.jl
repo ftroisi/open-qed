@@ -1,6 +1,7 @@
 module openqed
 
-greet() = print("Hello World!")
+include("io_manager/logo.jl")
 
-greet()
+logo.print_welcome()
+
 end # module openqed
