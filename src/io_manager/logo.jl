@@ -1,5 +1,7 @@
+"This module prints information at the beginning of the execution of the code."
 module logo
 
+    "This method prints the OpenQED logo"
     function print_welcome()
         println(" Welcome to OpenQED!")
         println("|                   |")
